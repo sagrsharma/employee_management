@@ -29,9 +29,9 @@ export default function EmployeeList({ employeeList }) {
           <TableHead>
             <TableRow>
               <TableCell>Series</TableCell>
-              <TableCell align="right">Calories</TableCell>
               <TableCell align="right">Name</TableCell>
               <TableCell align="right">Email</TableCell>
+              <TableCell align="right">Mobile</TableCell>
               <TableCell align="right">Project</TableCell>
             </TableRow>
           </TableHead>
